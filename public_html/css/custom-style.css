@@ -1,0 +1,30 @@
+div {
+    border-style: double;
+    border-width: 5px;
+    padding: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.container {
+    border-color: black;
+}
+
+.row {
+    border-color: #c7254e;
+}
+
+#maintext {
+    color: white;
+    font-size: 50px;
+}
+
+body {
+    font-family: cursive;
+    background-image: url('http://psychicguidepost.com/wp-content/uploads/2014/10/roses.jpg');
+    font-size: large;   
+}
+
+#text {
+    color: white;
+}
